@@ -1,0 +1,15 @@
+Code written by Nathan Carbee
+
+
+
+This program is designed for tracking you projects. (school related or independent) 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+To create a new file...
+
+	1. Scroll to line 46
+	2. Change where it say "Day 1.txt" to whatever you want.
+	
+		-Sidenote: Always remember to change the name of the file created 
+				   whenever creating a new file. If you don't, it'll overwrite
+				   all of your input on the first file.
